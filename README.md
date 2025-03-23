@@ -2,6 +2,18 @@
 
 Welcome to the Full-Stack Developer Learning Roadmap! This guide will take you from a complete beginner to an advanced full-stack developer, covering essential topics and practical skills.
 
+
+![image](https://github.com/user-attachments/assets/79ed24de-24d8-4a90-9802-2295011c2c5d)
+
+![image](https://github.com/user-attachments/assets/18f1a364-fcfa-499d-9a1f-72f95d2374ef)
+
+![image](https://github.com/user-attachments/assets/e56466e9-a9e3-4867-872a-e19d3408af90)
+
+![image](https://github.com/user-attachments/assets/e019f9be-539c-4374-b881-b78522bca9e6)
+
+![image](https://github.com/user-attachments/assets/f019d63e-c3a1-4207-837e-f9f02054cf14)
+
+
 🚀 Why Follow This Roadmap?
 
 Structured, phase-by-phase learning path
